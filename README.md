@@ -65,7 +65,5 @@ python "Boston House Price Prediction.py"
     ```
 
 ## Contributing notes
-- Keep notebook edits minimal; add a markdown cell describing changes (e.g., dataset migration).
-- Commit message examples:
   - `fix: replace load_boston with fetch_california_housing`
   - `chore: add README and .gitignore`
