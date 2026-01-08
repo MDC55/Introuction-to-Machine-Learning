@@ -1,5 +1,5 @@
 # Introuction-to-Machine-Learning
-# Boston House Price Prediction
+## Boston House Price Prediction
 
 Notebook: `Boston House Price Prediction.ipynb` — an end-to-end demo for exploring and modeling the (deprecated) Boston housing dataset.
 
