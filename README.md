@@ -27,7 +27,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 model = LinearRegression(); model.fit(X_train, y_train)
 ```
 
-## Requirements (tested)
+## Requirements 
 - Python 3.8+
 - scikit-learn==1.1.3, pandas, numpy, seaborn, matplotlib, scipy, jupyter
 
@@ -63,7 +63,4 @@ python "Boston House Price Prediction.py"
     boston = fetch_openml(name="boston", as_frame=False)
     X, y = boston.data, boston.target
     ```
-
-## Contributing notes
-  - `fix: replace load_boston with fetch_california_housing`
-  - `chore: add README and .gitignore`
+`
